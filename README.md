@@ -1,4 +1,4 @@
-# Verificador de Anagramas 🧠🔤
+# Verificador de Anagramas
 
 Este proyecto es un sencillo programa en Python que verifica si dos textos ingresados por el usuario son **anagramas**.
 
